@@ -1,0 +1,154 @@
+{
+  "cosmoshub-4": {
+    "chainId": "cosmoshub-4",
+    "chainName": "Cosmos Hub",
+    "icon": "https://assets.leapwallet.io/atom.png",
+    "baseDenom": "uatom",
+    "addressPrefix": "cosmos",
+    "chainRegistryPath": "cosmoshub"
+  },
+  "juno-1": {
+    "chainId": "juno-1",
+    "chainName": "Juno",
+    "icon": "https://assets.leapwallet.io/juno.svg",
+    "baseDenom": "ujuno",
+    "addressPrefix": "juno",
+    "chainRegistryPath": "juno"
+  },
+  "osmosis-1": {
+    "chainId": "osmosis-1",
+    "chainName": "Osmosis",
+    "icon": "https://assets.leapwallet.io/osmo.svg",
+    "baseDenom": "uosmo",
+    "addressPrefix": "osmo",
+    "chainRegistryPath": "osmosis"
+  },
+  "axelar-dojo-1": {
+    "chainId": "axelar-dojo-1",
+    "chainName": "Axelar",
+    "icon": "https://assets.leapwallet.io/axl.png",
+    "baseDenom": "uaxl",
+    "addressPrefix": "axelar",
+    "chainRegistryPath": "axelar"
+  },
+  "comdex-1": {
+    "chainId": "comdex-1",
+    "chainName": "Comdex",
+    "icon": "https://assets.leapwallet.io/cmdx.png",
+    "baseDenom": "ucmdx",
+    "addressPrefix": "comdex",
+    "chainRegistryPath": "comdex"
+  },
+  "crescent-1": {
+    "chainId": "crescent-1",
+    "chainName": "Crescent",
+    "icon": "https://assets.leapwallet.io/cre.svg",
+    "baseDenom": "ucre",
+    "addressPrefix": "cre",
+    "chainRegistryPath": "crescent"
+  },
+  "kaiyo-1": {
+    "chainId": "kaiyo-1",
+    "chainName": "Kujira",
+    "icon": "https://assets.leapwallet.io/kujira-chain-logo.png",
+    "baseDenom": "ukuji",
+    "addressPrefix": "kujira",
+    "chainRegistryPath": "kujira"
+  },
+  "mars-1": {
+    "chainId": "mars-1",
+    "chainName": "Mars",
+    "icon": "https://assets.leapwallet.io/mars_logo_colored.svg",
+    "baseDenom": "umars",
+    "addressPrefix": "mars",
+    "chainRegistryPath": "mars"
+  },
+  "migaloo-1": {
+    "chainId": "migaloo-1",
+    "chainName": "Migaloo",
+    "icon": "https://assets.leapwallet.io/whitewhale.png",
+    "baseDenom": "uwhale",
+    "addressPrefix": "migaloo",
+    "chainRegistryPath": "migaloo"
+  },
+  "neutron-1": {
+    "chainId": "neutron-1",
+    "chainName": "Neutron",
+    "icon": "https://assets.leapwallet.io/neutron-logo.jpeg",
+    "baseDenom": "untrn",
+    "addressPrefix": "neutron",
+    "chainRegistryPath": "neutron"
+  },
+  "noble-1": {
+    "chainId": "noble-1",
+    "chainName": "Noble",
+    "icon": "https://assets.leapwallet.io/noble-v2.png",
+    "baseDenom": "usdc",
+    "addressPrefix": "noble",
+    "chainRegistryPath": "noble"
+  },
+  "quasar-1": {
+    "chainId": "quasar-1",
+    "chainName": "Quasar",
+    "icon": "https://assets.leapwallet.io/quasar.png",
+    "baseDenom": "uqsr",
+    "addressPrefix": "quasar",
+    "chainRegistryPath": "quasar"
+  },
+  "quicksilver-2": {
+    "chainId": "quicksilver-2",
+    "chainName": "Quicksilver",
+    "icon": "https://assets.leapwallet.io/qck.png",
+    "baseDenom": "uqck",
+    "addressPrefix": "quick",
+    "chainRegistryPath": "quicksilver"
+  },
+  "stargaze-1": {
+    "chainId": "stargaze-1",
+    "chainName": "Stargaze",
+    "icon": "https://assets.leapwallet.io/stars.png",
+    "baseDenom": "ustars",
+    "addressPrefix": "stars",
+    "chainRegistryPath": "stargaze"
+  },
+  "stride-1": {
+    "chainId": "stride-1",
+    "chainName": "Stride",
+    "icon": "https://assets.leapwallet.io/strd.png",
+    "baseDenom": "ustrd",
+    "addressPrefix": "stride",
+    "chainRegistryPath": "stride"
+  },
+  "umee-1": {
+    "chainId": "umee-1",
+    "chainName": "umee",
+    "icon": "https://assets.leapwallet.io/umee.png",
+    "baseDenom": "uumee",
+    "addressPrefix": "umee",
+    "chainRegistryPath": "umee"
+  },
+  "celestia": {
+    "chainId": "celestia",
+    "chainName": "Celestia",
+    "icon": "https://assets.leapwallet.io/filled-celestia.svg",
+    "baseDenom": "utia",
+    "addressPrefix": "celestia",
+    "chainRegistryPath": "celestia"
+  },
+  "dydx-mainnet-1": {
+    "chainId": "dydx-mainnet-1",
+    "chainName": "dYdX",
+    "icon": "https://assets.leapwallet.io/dydx.png",
+    "baseDenom": "adydx",
+    "addressPrefix": "dydx",
+    "chainRegistryPath": "dydx"
+  },
+  "pacific-1": {
+    "chainId": "pacific-1",
+    "chainName": "Sei",
+    "icon": "https://assets.leapwallet.io/sei.png",
+    "baseDenom": "usei",
+    "addressPrefix": "sei",
+    "chainRegistryPath": "sei"
+  }
+}

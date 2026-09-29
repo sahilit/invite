@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* for all elements with font-sans */
+.font-sans {
+  /*5% of font size*/
+  /* letter-spacing: calc(-0.05rem); */
+  line-height: 97%;
+}
+
+.font-script {
+  /* letter-spacing: -5%; */
+  line-height: 97%;
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 85%;
+  }
+}
+
+* {
+  user-select: none;
+}
